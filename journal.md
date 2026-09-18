@@ -1,2 +1,2 @@
-# Journal du binôme (version B)
+# Journal du binôme
 Salut ca gaz ?
